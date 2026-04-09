@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="jy_-O5POC7Fp0llA6x03">
+    <mxGraphModel dx="1366" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CkneyTeUQBGkfFN80BPL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=east;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;b&gt;KisConfig(Conn）&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;CID&lt;/b&gt;: &quot;Funtion-L-01&quot;" vertex="1">
+          <mxGeometry height="160" width="140" x="420" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-3" edge="1" parent="1" source="CkneyTeUQBGkfFN80BPL-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" target="CkneyTeUQBGkfFN80BPL-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CkneyTeUQBGkfFN80BPL-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Courier New;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;KisFunction&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="320" y="615" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
