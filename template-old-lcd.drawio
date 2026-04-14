@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生成模板数据" vertex="1">
-          <mxGeometry height="60" width="120" x="718" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="718" y="391" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="根据LCD模板ID获取模板信息" vertex="1">
           <mxGeometry height="40" width="160" x="590" y="229" as="geometry" />
