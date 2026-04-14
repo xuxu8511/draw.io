@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="0t9YgS3fzryaP-k1tS7y">
-    <mxGraphModel dx="1607" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="Kxxx_oYbhRmdGTboBBMC-23" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=266;height=30;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;genRefreshDataSaveAndShowImmediately&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="340" width="830" x="390" y="829" as="geometry" />
         </mxCell>
-        <mxCell id="Kxxx_oYbhRmdGTboBBMC-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生成模板数据" vertex="1">
+        <mxCell id="Kxxx_oYbhRmdGTboBBMC-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生成图片数据" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="989" as="geometry" />
         </mxCell>
         <mxCell id="Kxxx_oYbhRmdGTboBBMC-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否指定&lt;br&gt;模板刷图" vertex="1">
