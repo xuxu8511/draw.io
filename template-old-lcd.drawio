@@ -8,7 +8,7 @@
           <mxGeometry height="390" width="770" x="120" y="140" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否LCD模板" vertex="1">
-          <mxGeometry height="60" width="110" x="380" y="175" as="geometry" />
+          <mxGeometry height="60" width="110" x="389" y="190" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-3" edge="1" parent="1" source="OOYnevojiieV6nScspx9-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OOYnevojiieV6nScspx9-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -24,7 +24,7 @@
         <mxCell id="OOYnevojiieV6nScspx9-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="根据商品ID,模板ID查询ESL模板图片" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="OOYnevojiieV6nScspx9-6" parent="1" style="shape=note;html=1;backgroundOutline=1;autosizeText=0;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=14;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=middle;" value="&lt;font&gt;1.为什么使用ESL模板？&lt;br&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="OOYnevojiieV6nScspx9-6" parent="1" style="shape=note;html=1;backgroundOutline=1;autosizeText=0;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=14;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=middle;whiteSpace=wrap;" value="&lt;font&gt;1.为什么使用ESL模板？ -- 使用场景？&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="180" x="130" y="350" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-7" edge="1" parent="1" source="OOYnevojiieV6nScspx9-6" style="endArrow=classic;html=1;rounded=0;exitX=0.839;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="OOYnevojiieV6nScspx9-4" value="">
@@ -71,7 +71,7 @@
           <mxGeometry height="60" width="120" x="718" y="391" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="根据LCD模板ID获取模板信息" vertex="1">
-          <mxGeometry height="40" width="160" x="590" y="229" as="geometry" />
+          <mxGeometry height="40" width="160" x="590" y="230" as="geometry" />
         </mxCell>
         <mxCell id="OOYnevojiieV6nScspx9-21" edge="1" parent="1" source="OOYnevojiieV6nScspx9-20" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OOYnevojiieV6nScspx9-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -94,6 +94,15 @@
         <mxCell id="OOYnevojiieV6nScspx9-26" connectable="0" parent="OOYnevojiieV6nScspx9-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.7529" y="3" as="geometry">
             <mxPoint x="9" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwdUUpw96MDuPCp3ACiA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="30" width="120" x="384" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="BwdUUpw96MDuPCp3ACiA-2" edge="1" parent="1" source="BwdUUpw96MDuPCp3ACiA-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OOYnevojiieV6nScspx9-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="450" as="sourcePoint" />
+            <mxPoint x="720" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
