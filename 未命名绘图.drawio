@@ -7,7 +7,7 @@
         <mxCell id="mg76nmcU2ejfx8NdpOwq-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="固件开发流程" vertex="1">
           <mxGeometry height="480" width="600" x="40" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="mg76nmcU2ejfx8NdpOwq-2" parent="mg76nmcU2ejfx8NdpOwq-1" style="swimlane;startSize=20;html=1;" value="谁？" vertex="1">
+        <mxCell id="mg76nmcU2ejfx8NdpOwq-2" parent="mg76nmcU2ejfx8NdpOwq-1" style="swimlane;startSize=20;html=1;" value="产品部" vertex="1">
           <mxGeometry height="460" width="120" y="20" as="geometry" />
         </mxCell>
         <mxCell id="mg76nmcU2ejfx8NdpOwq-3" parent="mg76nmcU2ejfx8NdpOwq-1" style="swimlane;startSize=20;html=1;" value="" vertex="1">
