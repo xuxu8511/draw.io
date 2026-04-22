@@ -139,6 +139,9 @@
         <mxCell id="NZCRyVBglBq6cBsNI92R-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="230" width="270" x="971" y="505" as="geometry" />
         </mxCell>
+        <mxCell id="NZCRyVBglBq6cBsNI92R-45" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.redis_kvstore;" value="" vertex="1">
+          <mxGeometry height="41.4" width="52.5" x="1013.75" y="148.6" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
